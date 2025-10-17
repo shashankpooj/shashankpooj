@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @shashankpooj
-- 👀 I’m interested in ... machine learning
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on ... build real-time projects using machine learning
-- 📫 How to reach me ... shashankpoojary678@gmail.com,9606614903
-- 😄 Pronouns: ...He.
+  -# 👋 Hi, I'm Shashank Poojary
 
-<!---
-shashankpooj/shashankpooj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data Science @ SimpleEnergy**
+
+I'm passionate about building intelligent systems and working with large-scale data pipelines. Currently focused on leveraging advanced technologies to solve real-world problems.
+
+## 🛠️ Skills
+- **Big Data & Streaming:** Kafka, Apache Spark
+- **Databases:** SQL
+- **Machine Learning:** ML, Deep Learning
+- **Advanced AI:** Agentic RAG
+
+## 🌱 Currently Learning
+Expanding expertise in production-grade machine learning systems and real-time data processing
+
+## 💞️ Looking to Collaborate On
+Building real-time, production-ready machine learning projects that make an impact
+
+## 📫 How to Reach Me
+- 📧 Email: shashankpoojary678@gmail.com
+- 📱 Phone: 9606614903
+
+---
+*Feel free to explore my repositories and reach out for collaboration opportunities!*
